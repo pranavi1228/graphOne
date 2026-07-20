@@ -1,0 +1,12 @@
+playwright==1.61.0
+beautifulsoup4
+lxml
+aiohttp
+httpx
+pandas
+rapidfuzz
+python-dotenv
+loguru
+tenacity
+requests
+openpyxl
